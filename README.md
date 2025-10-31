@@ -54,6 +54,5 @@ Figures will be in `figures/`.
 
 ## Notes
 - Paths are relative to the repository root (no machine-specific paths).
-- `data/processed/`, `figures/`, and `logs/` are ignored by Git by default. Remove from `.gitignore` if you want them tracked.
 
 
