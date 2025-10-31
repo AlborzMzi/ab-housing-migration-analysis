@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Data output
+data/processed/**
+figures/**
+logs/**
+
+# Keep a placeholder so empty dirs track in git
+!.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
