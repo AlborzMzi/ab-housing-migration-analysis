@@ -77,7 +77,4 @@ Figures will be in `figures/`.
 **Figure 5. Alberta homebuilding is running above pre-pandemic norms**  
 ![Alberta homebuilding is running above pre-pandemic norms](figures/figure5_starts_vs_baseline.png)
 
-**Figure 6. Interprovincial migration into Alberta remains positive**  
-![Interprovincial migration into Alberta remains positive](figures/figure6_interprov_migration.png)
-
 
