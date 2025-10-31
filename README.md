@@ -55,4 +55,29 @@ Figures will be in `figures/`.
 ## Notes
 - Paths are relative to the repository root (no machine-specific paths).
 
+- ## Results
+
+- 📄 **Full report (PDF):**
+  [Download the final report](docs/alberta-housing-2025.pdf)
+
+### Key Figures
+
+**Figure 1. Population inflow into Alberta remains elevated**  
+![Population inflow into Alberta remains elevated](figures/figure1_migration_pressure.png)
+
+**Figure 2. Builders kept building despite restrictive borrowing costs**  
+![Builders kept building despite restrictive borrowing costs](figures/figure2_starts_vs_policy_rate.png)
+
+**Figure 3. Benchmark home prices: Calgary, Edmonton, and Alberta**  
+![Benchmark home prices: Calgary, Edmonton, and Alberta](figures/figure3_cgy_edm_ab_hpi.png)
+
+**Figure 4. Home price growth: Calgary, Edmonton, and Alberta**  
+![Home price growth: Calgary, Edmonton, and Alberta](figures/figure4_yoy_price_growth.png)
+
+**Figure 5. Alberta homebuilding is running above pre-pandemic norms**  
+![Alberta homebuilding is running above pre-pandemic norms](figures/figure5_starts_vs_baseline.png)
+
+**Figure 6. Interprovincial migration into Alberta remains positive**  
+![Interprovincial migration into Alberta remains positive](figures/figure6_interprov_migration.png)
+
 
