@@ -58,7 +58,7 @@ Figures will be in `figures/`.
 - ## Results
 
 - 📄 **Full report (PDF):**
-  [Download the final report](docs/alberta-housing-2025.pdf)
+  [Download the final report](docs/alberta-housing-2025-10-31.pdf)
 
 ### Key Figures
 
